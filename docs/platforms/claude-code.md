@@ -32,6 +32,7 @@ Good to know:
 
 - It reads your **local clone**. `/memory-review` pulls before every review. If you change the memory from another machine, run `git pull` here.
 - A session that is already running keeps the version it started with.
+- Claude Code drops YAML frontmatter from imported files. That's why `core.md` keeps `last_updated` and `read_check` in its body: leave them there.
 
 ## 2. Review proposals
 

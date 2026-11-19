@@ -1,11 +1,9 @@
----
-last_updated: 2026-11-18
-read_check: potato-kugel-42
----
-
 > **FICTIONAL DEMO DATA.** Moishe Zuchmir, KugelCloud and everything in this file are invented to demonstrate one-memory. Any resemblance to real people or companies is coincidental.
 
 # Core memory: Moishe Zuchmir
+
+- **last_updated:** 2026-11-18
+- **read_check:** potato-kugel-42
 
 ## Who I am
 

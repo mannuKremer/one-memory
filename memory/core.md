@@ -1,9 +1,7 @@
----
-last_updated: YYYY-MM-DD
-read_check: change-me
----
-
 # Core memory
+
+- **last_updated:** YYYY-MM-DD
+- **read_check:** change-me
 
 <!-- Every assistant reads this file first. Keep it at 60 lines or fewer: a summary, not an archive.
      Details belong in the files listed under "Memory map". See docs/MAKE-IT-YOURS.md. -->

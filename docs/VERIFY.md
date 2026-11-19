@@ -18,7 +18,7 @@ In a **new** conversation, ask:
 
 ## Test 2: it admits when it can't read
 
-Turn the connector off for one conversation (in Claude Code, remove the snippet from `~/.claude/CLAUDE.md` and start a new session), then ask the same question.
+Turn the connector off for one conversation, then ask the same question. In Claude Code, temporarily rename `memory/core.md` in your clone and start a new session: removing the snippet instead would leave Claude Code unaware that any memory exists, so it couldn't say it's missing.
 
 - **Pass:** "Memory not loaded." or something close.
 - **Fail:** it makes up an answer. Don't trust this platform's claims about your memory until that's fixed.
