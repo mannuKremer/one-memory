@@ -43,7 +43,7 @@ About 15 minutes. Step-by-step details are in [docs/SETUP.md](docs/SETUP.md).
 | Claude.ai | Through a GitHub connector, when Claude calls it, or from a project snapshot | Opens the issue after you approve, or copy-paste |
 | ChatGPT | Through the GitHub app, when ChatGPT calls it (depends on your plan) | Copy-paste; directly only with a connector that can create issues |
 
-Assistants follow instructions; they don't give guarantees. In the chat apps, memory is read only when the assistant decides to call its connector. Check each platform with the [tests](docs/VERIFY.md), and run them again when something changes. _Platform details last checked: November 2026._
+Assistants follow instructions; they don't give guarantees. In the chat apps, memory is read only when the assistant decides to call its connector. Check each platform with the [tests](docs/VERIFY.md), and run them again when something changes. _Status, November 2026: the Claude Code loop (read, propose, review, prompt-injection check) has been tested end to end. The Claude.ai and ChatGPT steps follow the vendors' current documentation but haven't been tested by the maintainer yet. Reports are welcome._
 
 ## Daily use
 
