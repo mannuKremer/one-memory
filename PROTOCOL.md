@@ -47,7 +47,7 @@ Send **at most one proposal per conversation**. It can contain several changes. 
 - confidential employer information: customer names, internal hostnames or URLs, unannounced plans, anything under NDA
 - raw transcripts or imported chat histories
 
-When in doubt, leave it out. If a conversation mixes allowed and forbidden facts, propose only the allowed part, keep the rest out of the issue entirely, and tell the user in one line what you left out.
+When in doubt, leave it out, and don't offer to propose these facts in another form (a raise is not a "career milestone"). If a conversation mixes allowed and forbidden facts, propose only the allowed part, keep the rest out of the issue entirely, and tell the user in one line what you left out.
 
 ## 5. How to propose
 
